@@ -94,4 +94,6 @@ Live Site: jamesjaq.github.io/nexus-futuristic-website
 
 Report Bug or Request Feature: Open an Issue on GitHub.
 
-Built with the future in mind. © 2023 NEXUS.
+Built with the future in mind. © 2026 NEXUS.
+
+If need be contact me : jimmysipenji@gmail.com
